@@ -1,0 +1,35 @@
+@import "./components/Navbar/navbar.scss";
+@import "./components/Header/header.scss";
+@import "./components/About/about.scss";
+@import "./components/TechCard/techCard.scss";
+@import "./components/Projects/projects.scss";
+@import "./components/ProjectCard/ProjectCard.scss";
+@import "./components/Contact/contact.scss";
+@import "./components/ContactForm/contactForm.scss";
+@import "./components/Footer/footer.scss";
+// @import "./components/LoginModal/loginModal.scss";
+// @import "./components/LoginForm/loginForm.scss";
+// @import "./components/SignUpForm/signUpForm.scss";
+// @import "./components/NewProjectForm/newProjectForm.scss";
+// @import "./components/NewSkillForm/newSkillForm.scss";
+// @import "./pages/AdminProjects/adminProjects.scss";
+// @import "./pages/AdminSkills/adminSkills.scss";
+// @import "./pages/Error/error.scss";
+// @import "./components/EditModal/editModal.scss";
+// @import "./components/EditProjectForm/editProjectForm.scss";
+// @import "./components/EditSkillForm/editSkillForm.scss";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+    min-width: 320px;
+}
+
+
